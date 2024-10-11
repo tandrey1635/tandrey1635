@@ -1,30 +1,13 @@
 Прошел курсы по вёрстке и профессиональной вёрстке geekbrains.ru и udemy.com(курсы от Ивана Петриченко и Владилена Минина).Изучил базовый javascript на этих же платформах.
 
 Знаю:
-1 html/html5,css/css3,scss/sass,flexbox, bootstrap4,
-2 jQuery по документации,базовый javascript:
-переменные,операторы(инкремент,декремент,постфиксное значение),
-циклы,условия,методы массивов(pop(),shift(),unshift(),push(),map() ),
-перебор массивов forEach() ),
-функции(setTimeout, setInterval),(function declaration,expression,стрелочные,callback),
-DOM((event(target,tagName)
-доступ к элементам(document.querySelector()…)
-доступ к содержимому элементов(innerHTML,textContent)
-доступ к атрибутам
-работа с классами css(classList.add,classList.remove,contains,toggle)
-события(addEventListener('click','mouseleave,mouseenter),
-обьект события(,preventDefault() ),
-делегирование событий,
-создание элементов через DOM(createElement(),append(),prepend(),
-события(Event).
+1 html5,css3,scss/sass,flexbox, bootstrap4,
+2 jQuery,javascript
 Библиотека three.js могу добавить 3д модель на сайт
 
+Верстка по макетам figma/photoshop и аналогичные. Адаптивная верстка и кроссбраузерная верстка. Хочу развиваться глубже в области frontend разработки.
 
-﻿А также подключение различных скриптов Js и Jquery.
-
-Верстка по макетам figma/photoshop и аналогичные.Адаптивная верстка и кроссбраузерная верстка.Хочу развиваться глубже в области frontend разработки.
-
-Опыт в верстке год
+Опыт в верстке 4года
 
 Сертификаты:
 
@@ -41,7 +24,7 @@ Js
 https://gb.ru/streams/21715/feedbacks/new
 
 Мои работы:
-http://f0548013.xsph.ru/Portfolio/index.html
+в разработке
 
 Профиль на GitHub
 https://github.com/tandrey1635
