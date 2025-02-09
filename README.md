@@ -3,6 +3,7 @@
 Знаю:
 - HTML5, CSS3, SCSS/SASS, Flexbox, Grid, Bootstrap 4,5 
 - jQuery, Javascript, React
+- WebPack
 - на данный момент изучаю Redux
 -Библиотека three.js могу добавить 3д модель на сайт
 
