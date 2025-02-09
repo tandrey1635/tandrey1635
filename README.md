@@ -1,9 +1,9 @@
-Прошел курсы по вёрстке и профессиональной вёрстке geekbrains.ru и udemy.com(курсы от Ивана Петриченко и Владилена Минина).Изучил базовый javascript на этих же платформах.
+Прошел курсы по вёрстке и профессиональной вёрстке geekbrains.ru и udemy.com(курсы от Ивана Петриченко и Владилена Минина).Изучил базовый javascript и react на этих же платформах.
 
 Знаю:
-- HTML5, CSS3, SCSS/SASS, Flexbox, Grid, Bootstrap 4,
-- jQuery, Javascript
-- на данный момент изучаю React
+- HTML5, CSS3, SCSS/SASS, Flexbox, Grid, Bootstrap 4,5 
+- jQuery, Javascript, React
+- на данный момент изучаю Redux
 -Библиотека three.js могу добавить 3д модель на сайт
 
 Верстка по макетам figma/photoshop и аналогичные. Адаптивная верстка и кроссбраузерная верстка. Хочу развиваться глубже в области frontend разработки.
