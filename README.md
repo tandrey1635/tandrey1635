@@ -28,8 +28,20 @@ https://www.udemy.com/certificate/UC-9fa9b820-291e-4311-9476-17138c209122/
 Bootstrap
 https://beonmax.com/certificates/128ada0a45ef497d3a715391b5972366/ru/
 
-Js
+JavaScript
 https://gb.ru/streams/21715/feedbacks/new
+
+Bitrix Контент менеджер
+https://dev.1c-bitrix.ru/certificates/learning.php?course=34
+
+Bitrix Продвижение сайта и Маркетинг
+https://dev.1c-bitrix.ru/certificates/learning.php?course=139
+
+Bitrix Администратор. Базовый
+https://dev.1c-bitrix.ru/certificates/learning.php?course=35
+
+Администратор сервиса Битрикс24 (коробочная версия)
+https://dev.1c-bitrix.ru/certificates/learning.php?course=48
 
 Мои работы:
 https://frontend-technology.pro/portfolio/
