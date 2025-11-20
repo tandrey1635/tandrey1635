@@ -3,7 +3,7 @@
 Знаю:
 - HTML/HTML5, CSS/CSS3, SCSS/SASS, Flexbox, Grid, Bootstrap 3,4,5, GIT (gui и немного консольный основные команды) 
 - JQuery, Javascript, React
-- WebPack
+- WebPack, Vite
 - Основы Seo Микроразметка (WEBSite, WPHeader, navigation, breadcrumbs, image/video Object, Organization(medicalBussiness), микроразметка статей, FAQ/Q&A ) в формате JSON+ld или HTML разметка http://schema.org/
 - Сажал верстку на админку OpenCart по документации/видео
 - Верстал сайты на Bitrix/Bitrix24
